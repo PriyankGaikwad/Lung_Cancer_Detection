@@ -1,0 +1,26 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.vscode/
+*.ipynb
+env/
+*.log
+Bengin cases/
+Lung_Cancer_Detection/
+Malignant cases/
+Normal cases/
+test/
+train/
+validation/
+conf_matr.py
+lung_cancer_model_vgg_test.h5
+lung_cancer_model_vgg_test2.h5
+lung_cancer_prediction_model.h5
+model3.py
+model5.py
+model_selection.py
+model_test.py
+model_test2.py
+preprocessing.py
+proj_met.py
